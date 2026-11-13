@@ -1,2 +1,2 @@
-# Data-Structure
-데이터 구조와 알고리즘 과제
+# DS & Algorithm
+데이터 구조 / 알고리즘 과제
